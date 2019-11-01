@@ -4,6 +4,9 @@
 ## 知识拓展
 * [基于TypeScript从零重构axios](https://github.com/marlonchiu/ts-guide-file)
 * [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+* [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+* [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
+* [机器学习算法python实现](https://github.com/lawlite19/MachineLearning_Python)
 
 ## Electron 桌面客户端
 * [基于本地的原生音乐播放器](https://github.com/marlonchiu/simple-music-player)
