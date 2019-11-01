@@ -3,6 +3,7 @@
 
 ## 知识拓展
 * [基于TypeScript从零重构axios](https://github.com/marlonchiu/ts-guide-file)
+* [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 ## Electron 桌面客户端
 * [基于本地的原生音乐播放器](https://github.com/marlonchiu/simple-music-player)
